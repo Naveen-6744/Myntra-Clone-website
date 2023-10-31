@@ -34,7 +34,7 @@ header {
   font-weight: 700;
   text-transform: uppercase;
   text-decoration: none;
-  padding: 27px 0;
+  padding: 27.1px 0;
   border-bottom: 5px solid #ffffff;
 }
 .nav_bar a:hover {
@@ -90,6 +90,7 @@ margin: 40px 0;
     width: 100%;
 }
 .category_heading{
+    padding: 40px 0;
     text-transform: uppercase;
     color: #3e4152;
     letter-spacing: .15em;
